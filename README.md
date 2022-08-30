@@ -10,3 +10,7 @@ similarities between the couple and babies (candidates) to find the best baby pi
 - Saved inside the IDE's working directory
 - To make it collective, try to put all the sample (man, woman, baby) inside one storage or folder
   and of course the storage itself needs to be saved inside the IDE's working directory
+  
+**haarcascade_frontalface_default**
+is the module file / library for Face Detecting Purposes. Make sure to put it and save the file path
+for programming needs.
