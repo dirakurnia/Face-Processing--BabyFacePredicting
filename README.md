@@ -1,7 +1,7 @@
 # Face-Processing--BabyFacePredicting
 A Project for Academic Purpose to create an Image Processing Program.
-Inside this program, all comments and notes were given in Bahasa. I chose this particular program because myself realized that
-in these days, few teenagers are curious how their baby will look like. With this Face Processing Program, this program will allow
+Inside this program, all comments and notes were given in Bahasa. The reason why this project title were chosen was
+in these days, few teenagers (some friends) usually be curious how their baby will look like. With this Face Processing Program, this program will help
 teenagers insert their close-up picture also with their couple (or dream couple), then this program will be going through a theory to find the level of
 similarities between the couple and babies (candidates) to find the best baby picture that fits or in the maximum level of similarities.
 
